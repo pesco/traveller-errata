@@ -88,6 +88,8 @@ LWB1	p. 42	Paragraph "Drawing", last sentence: "... achieves surprise..."
 
 ** Status Uncertain **
 
+LWB1	p. 11	The Other career should get two skills per term just like
+		Scouts. [CotI, daryen 2021]
 LWB1	p. 14	The cash table includes entries for a roll of 7 for the Navy,
 		Scout, and Merchant careers, even though such a roll is not
 		possible (these careers cannot yield Gambling expertise).
