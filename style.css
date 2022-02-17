@@ -1,0 +1,56 @@
+		body {
+			margin: 3em;
+			font-family: sans;
+			font-size: 10pt;
+			width: 90ex;
+		}
+
+		header {
+			text-align: center;
+		}
+
+		/* document subtitle */
+		header p {
+			font-size: 16pt;
+			margin-bottom: 3em;
+		}
+
+		/* document title */
+		h1 {
+			font-size: 20pt;
+		}
+
+		/* subsection heading */
+		h5 {
+			font-size: 12pt;
+			font-weight: bold;
+			margin-top: 2em;
+			margin-bottom: 1em;
+		}
+
+		/* paragraph heading */
+		h6 {
+			font-size: 10pt;
+			font-weight: bold;
+			margin-bottom: 0;
+		}
+
+		dt {
+			font-style: italic;
+		}
+
+		table {
+			width: 100%;
+		}
+		col.bk {
+			width: 8ex;
+		}
+		col.pp {
+			width: 10ex;
+		}
+		tr:nth-child(odd) {
+			background-color: #ddd;
+		}
+		td {
+			vertical-align: top;
+		}
