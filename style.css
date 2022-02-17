@@ -6,18 +6,30 @@ body {
 }
 
 header {
-	text-align: center;
+	text-align: right;
+	font-family: Optima, URWClassico, sans;
+	font-style: italic;
+	margin-top: 4em;
+	margin-bottom: 6em;
+}
+
+header hr {
+	height: 4pt;
+	border: 0;
+	background-color: black;
+	margin-top: 0;
+}
+
+/* document title */
+h1 {
+	font-size: 24pt;
+	margin-bottom: 0;
 }
 
 /* document subtitle */
 header p {
 	font-size: 16pt;
-	margin-bottom: 3em;
-}
-
-/* document title */
-h1 {
-	font-size: 20pt;
+	margin-top: 0;
 }
 
 /* subsection heading */
@@ -35,6 +47,14 @@ h6 {
 	margin-bottom: 0;
 }
 
+dl {
+	display: grid;
+	grid-template-columns: 15% 85%;
+	margin-top: 0;
+}
+dd {
+	margin-left: 1ex;
+}
 dt {
 	font-style: italic;
 }

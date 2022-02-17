@@ -19,6 +19,7 @@ awk -F '	' '
 	sub(/^	*/, "")
 	print "<header>"
 	print "<h1>" $0 "</h1>"
+	print "<hr>"
 	header = 1
 	next
 }
@@ -31,21 +32,27 @@ awk -F '	' '
 
 /^		/ {
 	if (header) {
-		sub(/^	*/, "")
-		print "<p>" $0 "</p>"
-	} else
-		print
+		if (!subtitle)
+			print "<p>"
+		else
+			print "<br>"
+		subtitle = 1
+	}
+	print
 	next
 }
 
 // {
 	if (header)
 		print "</header>"
+	if (subtitle)
+		print "</p>"
 	if (tr)
 		print "</td></tr>"
 	if (dd)
 		print "</dd>"
 	header = 0
+	subtitle = 0
 	tr = 0
 	dd = 0
 }
