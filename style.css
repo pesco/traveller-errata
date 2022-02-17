@@ -47,6 +47,7 @@ h6 {
 	margin-bottom: 0;
 }
 
+/* definition lists */
 dl {
 	display: grid;
 	grid-template-columns: 15% 85%;
@@ -59,6 +60,7 @@ dt {
 	font-style: italic;
 }
 
+/* errata tables */
 table {
 	width: 100%;
 }
