@@ -1,0 +1,37 @@
+
+
+	Errata
+	for the Traveller Role-Playing Game
+
+
+* Source files: *
+lwb.txt		re 2021 "Facsimile Edition" of Classic Traveller
+
+* Books covered: *
+LWB	Facsimile Ed. ("Little White Books") front matter and errata section
+LWB1	Little White Book 1, "Characters and Combat"
+LWB2	(TODO) Little White Book 2, "Starships"
+LWB3	(TODO) Little White Book 3, "Worlds and Adventures"
+
+* Format of the files: *
+UTF-8 plain text, Unix line endings (a single linefeed character, ASCII 0Ah,
+at the end of each line, including the last line of the file). Maximum line
+length 80 characters. Each errata item is introduced by one of the above
+abbreviations at the very beginning of a line, followed immediately by one TAB
+character (ASCII 09h), followed by a page specification ("p. X" or "pp. X-Y"),
+another TAB character, and free form errata text. Text may continue on further
+lines by indenting them two or more TAB characters. Items are ordered by book
+and page number.
+
+* Auxiliary files: *
+Makefile	run 'make' to generate HTML output
+convert.sh	shell/awk script to convert the .txt format to HTML
+style.css	stylesheet included in HTML output
+fonts/		fonts included for reference
+  u001.zip	URW U001, a free replacement for Univers (body font)
+  classico.zip	URW Classico, a free replacement for Optima (title font)
+
+* Legal: *
+Released under the ISC license unless otherwise noted.
+Traveller is Copyright 1977-2022 Far Future Enterprises, All Rights Reserved.
+U001 and URW Classico distributed under the AFPL.
