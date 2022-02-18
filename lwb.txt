@@ -120,10 +120,10 @@ LWB1	p. 14	The cash table includes entries for a roll of 7 for the Navy,
 		Scout, and Merchant careers, even though such a roll is not
 		possible (these careers cannot yield Gambling expertise).
 LWB1	p. 15	Service Skills Table, Army career: Should "Air/Raft" be Grav
-		Vehicle? Cf. pp. 17, 22, 154.
+		Vehicle? Cf. pp. 17, 22, LWB p. 154.
 LWB1	p. 15	Both education tables are titled "Advanced Education Table".
 		Consider text on p. 10 (second to last paragraph): "The fourth
 		is available only through advanced education". Should only the
 		fourth table be called "Advanced"?
-LWB1	p. 17	Should "Air/Raft" skill be Grav Vehicle? Cf. pp. 22, 154.
-LWB1	p. 18	Should "ATV" skill be Wheeled Vehicle? Cf. pp. 22, 154.
+LWB1	p. 17	Should "Air/Raft" skill be Grav Vehicle? Cf. p. 22, LWB p. 154.
+LWB1	p. 18	Should "ATV" skill be Wheeled Vehicle? Cf. p. 22, LWB p. 154.
