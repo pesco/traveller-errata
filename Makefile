@@ -1,2 +1,13 @@
-lwb.html: lwb.txt style.css convert.sh
-	./convert.sh "LWB Errata" < lwb.txt > lwb.html
+TARGETS = lwb.html
+CONVERT = convert.sh style.css
+
+.PHONY: all clean
+all: ${TARGETS}
+clean:
+	rm -f ${TARGETS}
+
+${TARGETS}: ${CONVERT}
+
+.SUFFIXES: .html .txt
+.txt.html:
+	./convert.sh "${<:R:U} Errata" < $< > $@
