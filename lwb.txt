@@ -103,6 +103,6 @@ LWB1	p. 15	Both education tables are titled "Advanced Education Table".
 		is available only through advanced education". Should only the
 		fourth table be called "Advanced"?
 LWB1	p. 17	Should "Air/Raft" skill be Grav Vehicle? Cf. pp. 22, 154.
-LWB1	p. 18	Should "ATV" skill be Wheeled Vehicle?
+LWB1	p. 18	Should "ATV" skill be Wheeled Vehicle? Cf. pp. 22, 154.
 LWB1	p. 36	Section "Morale": "-2 if the leader is killed". Does this
 		modifier apply only when killed or also when unconscious?
