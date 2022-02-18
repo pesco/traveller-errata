@@ -4,21 +4,25 @@
 		for the 2021 "Facsimile Edition" of Classic Traveller,
 		further referred to as the "Little White Books"
 
+
+For ease of sharing and editing, this list is maintained as a *plain text*
+file of specific structure that is then converted to an HTML document.
+
+* Source file format: *
+UTF-8 plain text, Unix line endings (a single linefeed character, ASCII 0Ah,
+at the end of each line, including the last line of the file). Maximum line
+length 80 characters. Each errata item is introduced by the book abbreviation
+(see below) at the very beginning of a line, followed immediately by one TAB
+character (ASCII 09h), followed by a page specification ("p. X" or "pp. X-Y"),
+another TAB character, and free form errata text. Text may continue on further
+lines by indenting them two or more TAB characters. Items are ordered by book
+and page number.
+
 * Legend: *
 LWB	Facsimile Edition itself, used for front matter and errata section
 LWB1	Little White Book 1, "Characters and Combat"
 LWB2	Little White Book 2, "Starships"
 LWB3	Little White Book 3, "Worlds and Adventures"
-
-* Format of this file: *
-UTF-8 plain text, Unix line endings (a single linefeed character, ASCII 0Ah,
-at the end of each line, including the last line of the file). Maximum line
-length 80 characters. Each errata item is introduced by one of the above
-abbreviations at the very beginning of a line, followed immediately by one TAB
-character (ASCII 09h), followed by a page specification ("p. X" or "pp. X-Y"),
-another TAB character, and free form errata text. Text may continue on further
-lines by indenting them two or more TAB characters. Items are ordered by book
-and page number.
 
 * Format of additional bibliographic references: *
 [CotI, U Year]	"Citizens of the Imperium" web forum, "CT Errata Compendium"
