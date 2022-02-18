@@ -91,6 +91,10 @@ LWB1	p. 34	"Round fractions against the character" (presume down):
 		Replace with "Round fractions down"? NB: LWB p. 155 states
 		"round down" (only) in the context characters who never go
 		unconscious.
+LWB1	p. 36	Section "Morale": "+1 if the party is a military unit". Does
+		this mean a unit in active military service? Can a "party of
+		adventurers" (first sentence) be such a military unit? If not,
+		should "of adventurers" be removed from the first sentence?
 LWB1	p. 42	Paragraph "Drawing", last sentence: "... achieves surprise..."
 		- make clear that this means essentially an extra attack?
 
