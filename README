@@ -25,6 +25,7 @@ and page number.
 
 * Generated output included for convenience: *
 lwb.html	from lwb.txt (via convert.sh)
+lwb.pdf		from lwb.html (via Firefox)
 
 * Auxiliary files: *
 Makefile	run 'make' to generate HTML output
