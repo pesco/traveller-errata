@@ -105,7 +105,15 @@ awk -F '	' '
 	next
 }
 
-// { print }
+// {
+	while (match($0, /\*[^ *].*[^ *]\*/)) {
+		a = substr($0, 1, RSTART - 1);
+		b = substr($0, RSTART + 1, RLENGTH - 2);
+		c = substr($0, RSTART + RLENGTH);
+		$0 = a "<strong>" b "</strong>" c
+	}
+	print
+}
 
 END {
 	if (tr)
