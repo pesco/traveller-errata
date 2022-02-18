@@ -52,6 +52,7 @@ h6 {
 	font-size: 10pt;
 	font-weight: bold;
 	margin-bottom: 0;
+	margin-top: 1em;
 }
 
 /* definition lists */
@@ -98,6 +99,20 @@ td {
 </header>
 </p>
 
+
+For ease of sharing and editing, this list is maintained as a <strong>plain text</strong>
+file of specific structure that is then converted to an HTML document.
+
+<h6>Source file format:</h6>
+UTF-8 plain text, Unix line endings (a single linefeed character, ASCII 0Ah,
+at the end of each line, including the last line of the file). Maximum line
+length 80 characters. Each errata item is introduced by the book abbreviation
+(see below) at the very beginning of a line, followed immediately by one TAB
+character (ASCII 09h), followed by a page specification ("p. X" or "pp. X-Y"),
+another TAB character, and free form errata text. Text may continue on further
+lines by indenting them two or more TAB characters. Items are ordered by book
+and page number.
+
 <h6>Legend:</h6>
 <dl>
 <dt>LWB</dt><dd>
@@ -113,16 +128,6 @@ td {
 		Little White Book 3, "Worlds and Adventures"
 </dd>
 </dl>
-
-<h6>Format of this file:</h6>
-UTF-8 plain text, Unix line endings (a single linefeed character, ASCII 0Ah,
-at the end of each line, including the last line of the file). Maximum line
-length 80 characters. Each errata item is introduced by one of the above
-abbreviations at the very beginning of a line, followed immediately by one TAB
-character (ASCII 09h), followed by a page specification ("p. X" or "pp. X-Y"),
-another TAB character, and free form errata text. Text may continue on further
-lines by indenting them two or more TAB characters. Items are ordered by book
-and page number.
 
 <h6>Format of additional bibliographic references:</h6>
 <dl>
@@ -254,11 +259,11 @@ and page number.
 		mentions of "casualties (unconscious or dead)", and the
 		following questions confuse it.
 		(a) Do "leader present" bonuses still apply when the leader is
-		unconscious? (Suggest no.)
-		(b) If not, do bonuses of a new leader apply immediately (in
-		the same round)? (Suggest yes.)
-		(c) Does killing an unconscious leader who was already
-		replaced still incur -2 and if so for how long? (Suggest no.)
+		unconscious? (Presume no.)
+		(b) Do bonuses of a new leader apply immediately (in the same
+		round)? (Presume yes.)
+		(c) Does killing an unconscious leader who has already been
+		replaced still incur -2 and if so for how long? (Presume no.)
 		Suggestion: "+1 if [any] leader (leader skill) is present [and
 		conscious]; ...; -2 if the [current] leader is killed (...)"
 </td></tr>
