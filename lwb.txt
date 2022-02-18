@@ -64,27 +64,33 @@ LWB1	p. 42	Paragraph "Drawing", last sentence: "... for the purpose of a
 LWB1	p. 33	Section "Combat Resolution": "A series of throws, in which
 		each participating individual capable of making a combat throw
 		makes one, is called a combat round". Does every individual
-		have to attack if they can?
+		have to attack if they can? (Presume no.)
+		Suggestion: "... in which each individual capable of doing so is
+		allowed to make a combat throw, ..."
 LWB1	p. 34	It is very hard to tell directly from the text who or what
 		determines the particular characteristic that a regular (i.e.
-		not "first blood") wound should be applied to.
+		not "first blood") wound should be applied to. (Presume
+		defender's choice.)
 LWB1	p. 34	The words "wound", "wounds", "hits", and "points" are used
 		without clear definition, making it hard to tell from the text 
-		that "the first wound received" refers to the sum total of the
-		damage throws.
+		that "the first wound received" refers to (presume) the sum
+		total of damage thrown.
 LWB1	p. 34	"As a result, first blood may immediately incapacitate or even
-		kill": This sentence seems to imply that a regular wound could
-		for some reason not immediately incapacitate or kill, making
-		the section more confusing. Replace "immediately" with
-		"easily"?
+		kill": The sentence confusingly seems to imply that somehow
+		otherwise the wound could not incapacitate or kill.
+		Suggestion: Replace "immediately" with "easily".
 LWB1	p. 34	"Once a characteristic has been reduced to zero, further
-		points may not be applied to it...": The text does not make it
-		clear how to determine the next characteristic that "overflow"
-		damage should apply to.
-LWB1	p. 34	"Round fractions against the character": Would it be better to
-		just state "Round fractions down"? NB: LWB p. 155 states
-		"round down" (only) in the context of wounded but conscious
-		characters.
+		points...": The text does not make it clear how to determine
+		the next characteristic that "overflow" damage should apply
+		to. (Presume the same way as the first.)
+		Suggestion: "... further points must be applied to other
+		characteristics determined in the same way." Move the sentence
+		to the beginning of the paragraph to bring it closer to the
+		mentions of how to determine the affected characteristic.
+LWB1	p. 34	"Round fractions against the character" (presume down):
+		Replace with "Round fractions down"? NB: LWB p. 155 states
+		"round down" (only) in the context characters who never go
+		unconscious.
 LWB1	p. 42	Paragraph "Drawing", last sentence: "... achieves surprise..."
 		- make clear that this means essentially an extra attack?
 
