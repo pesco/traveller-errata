@@ -95,6 +95,19 @@ LWB1	p. 36	Section "Morale": "+1 if the party is a military unit". Does
 		this mean a unit in active military service? Can a "party of
 		adventurers" (first sentence) be such a military unit? If not,
 		should "of adventurers" be removed from the first sentence?
+LWB1	p. 36	Section "Morale": "-2 if the leader is killed". Does this
+		modifier apply only when killed or also when unconscious?
+		While the wording is clear in itself, brevity, surrounding
+		mentions of "casualties (unconscious or dead)", and the
+		following questions confuse it.
+		(a) Do "leader present" bonuses still apply when the leader is
+		unconscious? (Suggest no.)
+		(b) If not, do bonuses of a new leader apply immediately (in
+		the same round)? (Suggest yes.)
+		(c) Does killing an unconscious leader who was already
+		replaced still incur -2 and if so for how long? (Suggest no.)
+		Suggestion: "+1 if [any] leader (leader skill) is present [and
+		conscious]; ...; -2 if the [current] leader is killed (...)"
 LWB1	p. 42	Paragraph "Drawing", last sentence: "... achieves surprise..."
 		- make clear that this means essentially an extra attack?
 
@@ -114,5 +127,3 @@ LWB1	p. 15	Both education tables are titled "Advanced Education Table".
 		fourth table be called "Advanced"?
 LWB1	p. 17	Should "Air/Raft" skill be Grav Vehicle? Cf. pp. 22, 154.
 LWB1	p. 18	Should "ATV" skill be Wheeled Vehicle? Cf. pp. 22, 154.
-LWB1	p. 36	Section "Morale": "-2 if the leader is killed". Does this
-		modifier apply only when killed or also when unconscious?
