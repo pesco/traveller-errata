@@ -11,7 +11,7 @@ lwb.txt		re 2021 "Facsimile Edition" of Classic Traveller
 LWB	Facsimile Ed. ("Little White Books") front matter and errata section
 LWB1	Little White Book 1, "Characters and Combat"
 LWB2	Little White Book 2, "Starships"
-LWB3	(TODO) Little White Book 3, "Worlds and Adventures"
+LWB3	Little White Book 3, "Worlds and Adventures"
 
 * Format of the files: *
 UTF-8 plain text, Unix line endings (a single linefeed character, ASCII 0Ah,
