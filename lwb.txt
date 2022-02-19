@@ -6,7 +6,8 @@
 
 
 For ease of sharing and editing, this list is maintained as a *plain text*
-file of specific structure that is then converted to an HTML document.
+file of specific structure that is then converted to an HTML document. Source:
+https://github.com/pesco/traveller-errata
 
 * Source file format: *
 UTF-8 plain text, Unix line endings (a single linefeed character, ASCII 0Ah,
