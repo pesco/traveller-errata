@@ -64,7 +64,8 @@ dt {
 /* errata tables */
 table {
 	width: 100%;
-	margin-top: 1em;
+	margin-top: 1ex;
+	margin-bottom: 1ex;
 }
 col.bk {
 	width: 8ex;
@@ -77,4 +78,10 @@ tr:nth-child(odd) {
 }
 td {
 	vertical-align: top;
+}
+
+/* dividers */
+hr {
+	color: grey;
+	border-style: dashed;
 }
