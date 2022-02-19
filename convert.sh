@@ -15,6 +15,10 @@ echo '</head>'
 
 echo '<body>'
 awk -F '	' '
+/^;/ {
+	next	# comment
+}
+
 /^	[^	]+$/ {
 	sub(/^	*/, "")
 	print "<header>"
