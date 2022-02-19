@@ -88,6 +88,10 @@ LWB3	p. 43	Paragraph "Psionically Enhanced Endurance": "nor may endurance
 
 ** Errors, Inconsistencies **
 
+LWB1	p. 11	Mustering Out Benefits table: States "Gambling: + level on
+		cash table" whereas the text (last line) says "level-1 or
+		higher may add +1" (not +level). The cash table (p. 14) also
+		states "gambling expertise [allows] a DM of +1".
 LWB1	p. 27	Paragraph "Mustering Out": Jamison receives three extra rolls
 		by virtue of his rank (5), not two.
 LWB1	p. 27	Paragraph "Mustering Out" and next paragraph: Jamison cannot
