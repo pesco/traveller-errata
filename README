@@ -35,6 +35,12 @@ fonts/		fonts included for reference
   u001.zip	URW U001, a free replacement for Univers (body font)
   classico.zip	URW Classico, a free replacement for Optima (title font)
 
+* Known issues: *
+The Makefile uses a convenient OpenBSD extension to generate the HTML title
+tag from the input file name. On Linux (i.e. with GNU make), the title will
+always be "Errata", as opposed to "LWB Errata", for instance. Other BSDs may
+yield different results, yet. Considered low-impact.
+
 * Legal: *
 Released under the ISC license unless otherwise noted.
 Traveller is Copyright 1977-2022 Far Future Enterprises, All Rights Reserved.
