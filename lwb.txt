@@ -47,7 +47,7 @@ LWB1	p. 40	Sentence "Most submachineguns are equipped..." is duplicated
 		above "Laser Carbine".
 LWB1	p. 41	Paragraph "Shoulder Stocks": "and some greater accuracy at
 		longer [ranges]".
-
+---
 LWB2	p. 6	Paragraph "Misjump": DM for "within 10 planetary diameters"
 		should be 10 (not 15) - cf. malfunctions table, p. 11.
 LWB2	p. 14	Third paragraph: "the computer model (...) indicates the
@@ -59,7 +59,7 @@ LWB2	p. 29	Last line: "During the [ordnance] launch phase".
 LWB2	p. 30	Ship's Data Card Example: "T-1 (B,M) Gunnery-1" (not Gunner).
 LWB2	p. 37	Paragraph "Formulae": "information needed for [producing]".
 LWB2	p. 48	First line: "by 5)" duplicated from p. 46.
-
+---
 LWB3	p. 5	Last paragraph: "[They] also serve as the basic routes..."
 LWB3	p. 7	Paragraph "Law Level": there is an extra space in the formula
 		("2D-7+ government") that does not appear in the others.
@@ -99,7 +99,7 @@ LWB1	p. 41	Paragraph "Armor and Protection": "The weight of personal
 		vacc suits. [CotI, Axe 2017]
 LWB1	p. 42	Paragraph "Drawing", last sentence: "... for the purpose of a
 		first shot." - could also be a swing.
-
+---
 LWB2	p. 27	Second paragraph "To prepare a data card": The order of "2)
 		power plant..." and "3) J-drive..." is reversed with respect
 		to the example (p. 30).
@@ -109,7 +109,7 @@ LWB2	p. 27	Second paragraph "To prepare a data card": Instructions state
 LWB2	p. 48	Last paragraph: "Some goods (... and 66 on the table) are sold
 		individually" - contradicts the statement on p. 47 (bottom):
 		"Items ... through 66 are expressed in tons".
-
+---
 LWB3	pp. 21-23	The described categorization, specifically as it
 		references character generation rules (p. 21, paragraph
 		"Modern Transportation"), does not align with the changes to
@@ -170,7 +170,7 @@ LWB1	p. 36	Section "Morale": "-2 if the leader is killed". Does this
 		conscious]; ...; -2 if the [current] leader is killed (...)"
 LWB1	p. 42	Paragraph "Drawing", last sentence: "... achieves surprise..."
 		- make clear that this means essentially an extra attack?
-
+---
 LWB2	p. 14	Fourth paragraph about bis models: "treated as the next higher
 		level for jump support, but as the next lower level for
 		software selection". On its own, "next lower level" could be
@@ -213,7 +213,7 @@ LWB2	p. 39	Auto/evade: It is unclear how exactly A/e is "similar" to M/e
 		on pilot expertise (take the indicated fraction of pilot skill
 		and round down). In addition, these programs allow normal use
 		of the maneuver drive, in lieu of the maneuver program."
-
+---
 LWB3	p. 6	Fourth paragraph: The world characteristics are introduced,
 		but it is not mentioned that these are called a universal
 		planetary profile (p. 6, paragraph 7), or UPP (p. 12 bottom).
