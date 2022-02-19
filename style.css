@@ -74,7 +74,7 @@ col.pp {
 	width: 10ex;
 }
 tr:nth-child(odd) {
-	background-color: #ddd;
+	background-color: #e0e0e0;
 }
 td {
 	vertical-align: top;
