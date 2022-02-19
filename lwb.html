@@ -71,6 +71,7 @@ dt {
 /* errata tables */
 table {
 	width: 100%;
+	margin-top: 1em;
 }
 col.bk {
 	width: 8ex;
@@ -101,17 +102,9 @@ td {
 
 
 For ease of sharing and editing, this list is maintained as a <strong>plain text</strong>
-file of specific structure that is then converted to an HTML document.
+file of specific structure that is then converted to an HTML document. Source:
+<br><a href="https://github.com/pesco/traveller-errata">https://github.com/pesco/traveller-errata</a><br>
 
-<h6>Source file format:</h6>
-UTF-8 plain text, Unix line endings (a single linefeed character, ASCII 0Ah,
-at the end of each line, including the last line of the file). Maximum line
-length 80 characters. Each errata item is introduced by the book abbreviation
-(see below) at the very beginning of a line, followed immediately by one TAB
-character (ASCII 09h), followed by a page specification ("p. X" or "pp. X-Y"),
-another TAB character, and free form errata text. Text may continue on further
-lines by indenting them two or more TAB characters. Items are ordered by book
-and page number.
 
 <h6>Legend:</h6>
 <dl>
@@ -173,6 +166,37 @@ and page number.
 </td></tr>
 </table>
 
+<table>
+<colgroup><col class=bk><col class=pp></colgroup>
+<tr><td>LWB2</td><td>p. 6</td><td>
+		Paragraph "Misjump": DM for "within 10 planetary diameters"
+		should be 10 (not 15) - cf. malfunctions table, p. 11.
+</td></tr>
+<tr><td>LWB2</td><td>p. 14</td><td>
+		Third paragraph: "the computer model (...) indicates the
+		credit [value]..."
+</td></tr>
+<tr><td>LWB2</td><td>p. 20</td><td>
+		Second paragraph: "and steward (..." misses closing bracket.
+</td></tr>
+<tr><td>LWB2</td><td>p. 26</td><td>
+		Section "Basic Parameters", point "2. Space": extraneous
+		period at end of second to last line (after "show").
+</td></tr>
+<tr><td>LWB2</td><td>p. 29</td><td>
+		Last line: "During the [ordnance] launch phase".
+</td></tr>
+<tr><td>LWB2</td><td>p. 30</td><td>
+		Ship's Data Card Example: "T-1 (B,M) Gunnery-1" (not Gunner).
+</td></tr>
+<tr><td>LWB2</td><td>p. 37</td><td>
+		Paragraph "Formulae": "information needed for [producing]".
+</td></tr>
+<tr><td>LWB2</td><td>p. 48</td><td>
+		First line: "by 5)" duplicated from p. 46.
+</td></tr>
+</table>
+
 
 <h5>Errors, Inconsistencies</h5>
 
@@ -196,6 +220,25 @@ and page number.
 <tr><td>LWB1</td><td>p. 42</td><td>
 		Paragraph "Drawing", last sentence: "... for the purpose of a
 		first shot." - could also be a swing.
+</td></tr>
+</table>
+
+<table>
+<colgroup><col class=bk><col class=pp></colgroup>
+<tr><td>LWB2</td><td>p. 27</td><td>
+		Second paragraph "To prepare a data card": The order of "2)
+		power plant..." and "3) J-drive..." is reversed with respect
+		to the example (p. 30).
+</td></tr>
+<tr><td>LWB2</td><td>p. 27</td><td>
+		Second paragraph "To prepare a data card": Instructions state
+		to list M-drive and J-drive letters. The example (p. 30) also
+		shows acceleration and jump range.
+</td></tr>
+<tr><td>LWB2</td><td>p. 48</td><td>
+		Last paragraph: "Some goods (... and 66 on the table) are sold
+		individually" - contradicts the statement on p. 47 (bottom):
+		"Items ... through 66 are expressed in tons".
 </td></tr>
 </table>
 
@@ -270,6 +313,62 @@ and page number.
 <tr><td>LWB1</td><td>p. 42</td><td>
 		Paragraph "Drawing", last sentence: "... achieves surprise..."
 		- make clear that this means essentially an extra attack?
+</td></tr>
+</table>
+
+<table>
+<colgroup><col class=bk><col class=pp></colgroup>
+<tr><td>LWB2</td><td>p. 14</td><td>
+		Fourth paragraph about bis models: "treated as the next higher
+		level for jump support, but as the next lower level for
+		software selection". On its own, "next lower level" could be
+		misunderstood to mean one level lower numerically.
+		Suggestion: "but as the [base] level for software..."
+</td></tr>
+<tr><td>LWB2</td><td>p. 31</td><td>
+		Game Turn Sequence, Native Player Turn: This section is word
+		for word identical to Intruder Player Turn with only the roles
+		reversed. This is not obvious since the text only defers to
+		the table (p. 26 bottom).
+		Suggestion: Add one sentence below "Native Player Turn" and
+		remove phase descriptions (retain letters and phase names):
+		"Same as intruder turn with the roles reversed.
+		A. Native Movement.
+		B. Native Laser Fire.
+		...
+		E. Native Computer Reprogramming."
+</td></tr>
+<tr><td>LWB2</td><td>p. 36</td><td>
+		Last paragraph: Point out that the sample planetary template
+		is not at the standard scale as described?
+		Suggestion: "... page 37 shows, at reduced size, Terra..."
+</td></tr>
+<tr><td>LWB2</td><td>p. 39</td><td>
+		Maneuver/evade: The wording "take the fraction of pilot skill
+		and drop any fractions" is confusing. Take which fraction and
+		drop it along with all others?
+		Suggestion: "take the indicated fraction of pilot skill and
+		round down".
+</td></tr>
+<tr><td>LWB2</td><td>p. 39</td><td>
+		Auto/evade: It is unclear how exactly A/e is "similar" to M/e
+		and what "at a lower level" means. Is it similar in that it
+		allows maneuvering, i.e. acceleration during the movment
+		phase? (Presume no.) Can it be used without the maneuver
+		program? (Presume yes.) Or does the wording "use of the
+		maneuver drive as required" under M/e mean to imply that
+		evasion requires the M-drive and therefore Maneuver?
+		Suggestion: Switch the order of paragraphs, explaining
+		Auto/evade first and Maneuver/evade as an extension of it.
+		"Auto/evade is a program which automatically produces minor
+		movement for a ship (independent of the maneuver program),
+		thus reducing the chances of the ship being hit by laser fire;
+		it allows a defensive DM against laser fire of -2.
+		Maneuver/evade is a series of six programs that are similar to
+		auto/evade, but perform at a higher level. Each has a DM based
+		on pilot expertise (take the indicated fraction of pilot skill
+		and round down). In addition, these programs allow normal use
+		of the maneuver drive, in lieu of the maneuver program."
 </td></tr>
 </table>
 
