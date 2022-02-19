@@ -156,7 +156,7 @@ LWB2	p. 31	Game Turn Sequence, Native Player Turn: This section is word
 		E. Native Computer Reprogramming."
 LWB2	p. 36	Last paragraph: Point out that the sample planetary template
 		is not at the standard scale as described?
-		Suggestion: "... page 37 shows, at reduced size, Terra..."
+		Suggestion: "The sample planetary template (of reduced size)..."
 LWB2	p. 39	Maneuver/evade: The wording "take the fraction of pilot skill
 		and drop any fractions" is confusing. Take which fraction and
 		drop it along with all others?
