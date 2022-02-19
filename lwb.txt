@@ -47,6 +47,18 @@ LWB1	p. 40	Sentence "Most submachineguns are equipped..." is duplicated
 LWB1	p. 41	Paragraph "Shoulder Stocks": "and some greater accuracy at
 		longer [ranges]".
 
+LWB2	p. 6	Paragraph "Misjump": DM for "within 10 planetary diameters"
+		should be 10 (not 15) - cf. malfunctions table, p. 11.
+LWB2	p. 14	Third paragraph: "the computer model (...) indicates the
+		credit [value]..."
+LWB2	p. 20	Second paragraph: "and steward (..." misses closing bracket.
+LWB2	p. 26	Section "Basic Parameters", point "2. Space": extraneous
+		period at end of second to last line (after "show").
+LWB2	p. 29	Last line: "During the [ordnance] launch phase".
+LWB2	p. 30	Ship's Data Card Example: "T-1 (B,M) Gunnery-1" (not Gunner).
+LWB2	p. 37	Paragraph "Formulae": "information needed for [producing]".
+LWB2	p. 48	First line: "by 5)" duplicated from p. 46.
+
 
 ** Errors, Inconsistencies **
 
@@ -61,6 +73,16 @@ LWB1	p. 41	Paragraph "Armor and Protection": "The weight of personal
 		vacc suits. [CotI, Axe 2017]
 LWB1	p. 42	Paragraph "Drawing", last sentence: "... for the purpose of a
 		first shot." - could also be a swing.
+
+LWB2	p. 27	Second paragraph "To prepare a data card": The order of "2)
+		power plant..." and "3) J-drive..." is reversed with respect
+		to the example (p. 30).
+LWB2	p. 27	Second paragraph "To prepare a data card": Instructions state
+		to list M-drive and J-drive letters. The example (p. 30) also
+		shows acceleration and jump range.
+LWB2	p. 48	Last paragraph: "Some goods (... and 66 on the table) are sold
+		individually" - contradicts the statement on p. 47 (bottom):
+		"Items ... through 66 are expressed in tons".
 
 
 ** In Need of Clarification **
@@ -114,6 +136,49 @@ LWB1	p. 36	Section "Morale": "-2 if the leader is killed". Does this
 		conscious]; ...; -2 if the [current] leader is killed (...)"
 LWB1	p. 42	Paragraph "Drawing", last sentence: "... achieves surprise..."
 		- make clear that this means essentially an extra attack?
+
+LWB2	p. 14	Fourth paragraph about bis models: "treated as the next higher
+		level for jump support, but as the next lower level for
+		software selection". On its own, "next lower level" could be
+		misunderstood to mean one level lower numerically.
+		Suggestion: "but as the [base] level for software..."
+LWB2	p. 31	Game Turn Sequence, Native Player Turn: This section is word
+		for word identical to Intruder Player Turn with only the roles
+		reversed. This is not obvious since the text only defers to
+		the table (p. 26 bottom).
+		Suggestion: Add one sentence below "Native Player Turn" and
+		remove phase descriptions (retain letters and phase names):
+		"Same as intruder turn with the roles reversed.
+		A. Native Movement.
+		B. Native Laser Fire.
+		...
+		E. Native Computer Reprogramming."
+LWB2	p. 36	Last paragraph: Point out that the sample planetary template
+		is not at the standard scale as described?
+		Suggestion: "... page 37 shows, at reduced size, Terra..."
+LWB2	p. 39	Maneuver/evade: The wording "take the fraction of pilot skill
+		and drop any fractions" is confusing. Take which fraction and
+		drop it along with all others?
+		Suggestion: "take the indicated fraction of pilot skill and
+		round down".
+LWB2	p. 39	Auto/evade: It is unclear how exactly A/e is "similar" to M/e
+		and what "at a lower level" means. Is it similar in that it
+		allows maneuvering, i.e. acceleration during the movment
+		phase? (Presume no.) Can it be used without the maneuver
+		program? (Presume yes.) Or does the wording "use of the
+		maneuver drive as required" under M/e mean to imply that
+		evasion requires the M-drive and therefore Maneuver?
+		Suggestion: Switch the order of paragraphs, explaining
+		Auto/evade first and Maneuver/evade as an extension of it.
+		"Auto/evade is a program which automatically produces minor
+		movement for a ship (independent of the maneuver program),
+		thus reducing the chances of the ship being hit by laser fire;
+		it allows a defensive DM against laser fire of -2.
+		Maneuver/evade is a series of six programs that are similar to
+		auto/evade, but perform at a higher level. Each has a DM based
+		on pilot expertise (take the indicated fraction of pilot skill
+		and round down). In addition, these programs allow normal use
+		of the maneuver drive, in lieu of the maneuver program."
 
 
 ** Status Uncertain **
