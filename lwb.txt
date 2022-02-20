@@ -227,11 +227,6 @@ LWB3	p. 7	The formula for planet atmosphere can yield values outside the
 		defined range (0-12). Should such results rather be clamped or
 		rerolled (referee discretion notwithstanding)? Same for
 		hydrography (range 0-10), government (0-13), and law (0-9).
-LWB3	pp. 7, 12	Should the formula for hydrographic percentage have
-		stayed 2D-7+size, matching text and/or checklist in other
-		books (LBB3, TTB, LBB6) and software (GDW Sector Gen,
-		Challenge Magazine 26)? Has the errata (LWB p. 160) been
-		applied incorrectly? [CotI, chalimacos 2021]
 
 
 ** Status Uncertain **
@@ -249,3 +244,9 @@ LWB1	p. 15	Both education tables are titled "Advanced Education Table".
 		fourth table be called "Advanced"?
 LWB1	p. 17	Should "Air/Raft" skill be Grav Vehicle? Cf. p. 22, LWB p. 154.
 LWB1	p. 18	Should "ATV" skill be Wheeled Vehicle? Cf. p. 22, LWB p. 154.
+---
+LWB3	pp. 7, 12	Should the formula for hydrographic percentage have
+		stayed 2D-7+size, matching text and/or checklist in other
+		books (LBB3, TTB, LBB6) and software (GDW Sector Gen,
+		Challenge Magazine 26)? Has the errata (LWB p. 160) been
+		applied incorrectly? [CotI, chalimacos 2021]
