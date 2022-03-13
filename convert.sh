@@ -15,6 +15,15 @@ echo '</head>'
 
 echo '<body>'
 awk -F '	' '
+function do_bold() {
+	while (match($0, /\*[^ *]([^*]*[^ *])?\*/)) {
+		a = substr($0, 1, RSTART - 1);
+		b = substr($0, RSTART + 1, RLENGTH - 2);
+		c = substr($0, RSTART + RLENGTH);
+		$0 = a "<strong>" b "</strong>" c
+	}
+}
+
 /^;/ {
 	next	# comment
 }
@@ -42,6 +51,7 @@ awk -F '	' '
 			print "<br>"
 		subtitle = 1
 	}
+	do_bold()
 	print
 	next
 }
@@ -115,12 +125,7 @@ awk -F '	' '
 }
 
 // {
-	while (match($0, /\*[^ *].*[^ *]\*/)) {
-		a = substr($0, 1, RSTART - 1);
-		b = substr($0, RSTART + 1, RLENGTH - 2);
-		c = substr($0, RSTART + RLENGTH);
-		$0 = a "<strong>" b "</strong>" c
-	}
+	do_bold()
 	print
 }
 
