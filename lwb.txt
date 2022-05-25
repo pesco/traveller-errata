@@ -164,7 +164,7 @@ LWB1	p. 34	"Once a characteristic has been reduced to zero, further
 		mentions of how to determine the affected characteristic.
 LWB1	p. 34	"Round fractions against the character" (presume down):
 		Replace with "Round fractions down"? NB: LWB p. 155 states
-		"round down" (only) in the context characters who never go
+		"round down" (only) in the context of characters who never go
 		unconscious.
 LWB1	p. 36	Section "Morale": "+1 if the party is a military unit". Does
 		this mean a unit in active military service? Can a "party of
@@ -212,7 +212,7 @@ LWB2	p. 39	Maneuver/evade: The wording "take the fraction of pilot skill
 		round down".
 LWB2	p. 39	Auto/evade: It is unclear how exactly A/e is "similar" to M/e
 		and what "at a lower level" means. Is it similar in that it
-		allows maneuvering, i.e. acceleration during the movment
+		allows maneuvering, i.e. acceleration during the movement
 		phase? (Presume no.) Can it be used without the maneuver
 		program? (Presume yes.) Or does the wording "use of the
 		maneuver drive as required" under M/e mean to imply that
