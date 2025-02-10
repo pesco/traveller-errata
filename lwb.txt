@@ -136,6 +136,8 @@ LWB3	pp. 29, 33	The table referred to as the "special attributes
 
 ** In Need of Clarification **
 
+LWB1	p. 22	After the errata change to Vehicle skill, are grav belts
+		considered part of the Grav Vehicle category?
 LWB1	p. 33	Section "Combat Resolution": "A series of throws, in which
 		each participating individual capable of making a combat throw
 		makes one, is called a combat round". Does every individual
@@ -265,8 +267,6 @@ LWB1	p. 15	Both education tables are titled "Advanced Education Table".
 LWB1	p. 17	Should "Air/Raft" skill be Grav Vehicle? Cf. p. 22, LWB p. 154.
 LWB1	p. 18	Should ATVs (and AFVs) be covered by wheeled or tracked
 		vehicle skill? Cf. p. 22, LWB p. 154.
-LWB1	p. 22	After the errata change to Vehicle, are grav belts considered
-		part of the Grav Vehicle category?
 
 
 ** Dismissed **
