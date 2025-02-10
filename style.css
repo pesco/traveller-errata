@@ -1,13 +1,13 @@
 body {
 	margin: 3em;
-	font-family: Univers, U001, sans;
+	font-family: U001, sans;
 	font-size: 10pt;
 	width: 90ex;
 }
 
 header {
 	text-align: right;
-	font-family: Optima, URWClassico, sans;
+	font-family: URWClassico, sans;
 	font-style: italic;
 	margin-top: 4em;
 	margin-bottom: 6em;
