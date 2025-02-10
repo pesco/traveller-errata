@@ -45,12 +45,25 @@ LWB1	p. 27	Paragraph "Fourth Term": "Table 2, roll 4= gun combat" should
 		be roll 6. [CotI, Axe 2019]
 LWB1	p. 27	Paragraph "Mustering Out": "benefits table, roll 6 (+1=6)= +1
 		education" should be roll 2 (+1 = education).
+LWB1	p. 31	Second paragraph, sentence 7 (line 17): "Surprise continues
+		until it is lost, and may th[u]s continue indefinitely."
+		(letter 'u' damaged in scan)
+LWB1	p. 32	Line 6: "short [or] close"
+LWB1	p. 32	Line 10: "option of the [referee]"
+LWB1	p. 32	Line 11: "[on the] situation" (missing space)
+LWB1	p. 32	Line 13: "c[o]ntact" (letter 'o' damaged in scan)
+LWB1	p. 35	Section "Expertise", paragraph "Parrying": "A character may use
+		his expertise level in his brawling or blade weapon [skill]
+		as a negative DM..."
 LWB1	p. 36	Section "Weight", paragraph "Normal Load": "his or her
 		strength [characteristic]" (singular).
 LWB1	p. 40	Sentence "Most submachineguns are equipped..." is duplicated
 		above "Laser Carbine".
 LWB1	p. 41	Paragraph "Shoulder Stocks": "and some greater accuracy at
 		longer [ranges]".
+LWB1	p. 47	Range Matrix, row "Claws", column "Wound Inflicted" should be
+		2D. Next row should be "Teeth, +2, 0, no, no, no, 2D" (errata
+		applied to wrong row).
 ---
 LWB2	p. 6	Paragraph "Misjump": DM for "within 10 planetary diameters"
 		should be 10 (not 15) - cf. malfunctions table, p. 11.
@@ -138,6 +151,17 @@ LWB3	pp. 29, 33	The table referred to as the "special attributes
 
 LWB1	p. 22	After the errata change to Vehicle skill, are grav belts
 		considered part of the Grav Vehicle category?
+LWB1	p. 30, 33	The listing "Combat Procedure" on p. 30 does not state
+		clearly whether all targets and attacks should be declared
+		before any throws are made. The same applies to the paragraph
+		"Basic Required Throw" on p. 33, second sentence: "He or she
+		must then make a basic throw...". Is the word "then" here
+		meant to imply that the throw is made immediately after the
+		target is declared? This would give an advantage in that attacks
+		could be declared based on knowledge of prior throws despite
+		all attacks conceptually occuring at the same time.
+LWB1	p. 33	First paragraph: In what order should the characters (player
+		and non-player) state their movement status?
 LWB1	p. 33	Section "Combat Resolution": "A series of throws, in which
 		each participating individual capable of making a combat throw
 		makes one, is called a combat round". Does every individual
@@ -168,6 +192,13 @@ LWB1	p. 34	"Round fractions against the character" (presume down):
 		Replace with "Round fractions down"? NB: LWB p. 155 states
 		"round down" (only) in the context of characters who never go
 		unconscious.
+LWB1	p. 35	Section "Expertise", paragraph "Parrying": (a long gun) "is
+		treated as a brawling weapon (a cudgel)". However, Cudgels are
+		classified as polearms, not brawling weapons in section
+		"Combat Equipment" on p. 37. Should the parenthesis on p. 35
+		be changed to "(a club)"? Otherwise it is unclear which skill
+		to use (Brawling or Cudgel). NB, 1977 edition: "... uses the
+		gun as a brawling weapon (as a club, for example)."
 LWB1	p. 36	Section "Morale": "+1 if the party is a military unit". Does
 		this mean a unit in active military service? Can a "party of
 		adventurers" (first sentence) be such a military unit? If not,
