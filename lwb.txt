@@ -151,7 +151,7 @@ LWB3	pp. 29, 33	The table referred to as the "special attributes
 
 LWB1	p. 22	After the errata change to Vehicle skill, are grav belts
 		considered part of the Grav Vehicle category?
-LWB1	p. 30, 33	The listing "Combat Procedure" on p. 30 does not state
+LWB1	pp. 30, 33	The listing "Combat Procedure" on p. 30 does not state
 		clearly whether all targets and attacks should be declared
 		before any throws are made. The same applies to the paragraph
 		"Basic Required Throw" on p. 33, second sentence: "He or she
