@@ -34,6 +34,10 @@ LWB3	Little White Book 3, "Worlds and Adventures"
 
 ** Spelling, Misprints, Editorial Mistakes **
 
+LWB1	p. 8	Paragraph "The Universal Personality Profile", line 4/5:
+		"the common arabic numbers[;]" (semicolon damaged in scan)
+LWB1	p. 9	Paragraph "Titles": "Noble titles are commonly used, even if
+		the individual [is] not engaged in local government."
 LWB1	p. 11	Mustering Out Benefits table, should read "Gambling: +1 on
 		cash table" (cf. p. 11 last line, p. 14 cash table).
 		[Rob Eaglestone, 21 Feb 2022]
