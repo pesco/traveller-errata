@@ -38,9 +38,21 @@ LWB1	p. 8	Paragraph "The Universal Personality Profile", line 4/5:
 		"the common arabic numbers[;]" (semicolon damaged in scan)
 LWB1	p. 9	Paragraph "Titles": "Noble titles are commonly used, even if
 		the individual [is] not engaged in local government."
+LWB1	p. 9	Paragraph "Titles": "a noble may have some ancestral lands or
+		fiefs and may actually have some ruling power." (no comma
+		before "and")
+LWB1	p. 11	Paragraph "Retirement": "A character may serve up to seven
+		terms of service voluntarily and may leave after any term"
+		(no comma before "and")
 LWB1	p. 11	Mustering Out Benefits table, should read "Gambling: +1 on
 		cash table" (cf. p. 11 last line, p. 14 cash table).
 		[Rob Eaglestone, 21 Feb 2022]
+LWB1	p. 12	Paragraph "Aging Crisis": The parenthesis in the following
+		does not make proper grammar with its surroundings: "This
+		process occurs each time (and for each characteristic) a
+		characteristic is reduced to zero." Suggestion: "This process
+		occurs each time a characteristic is reduced to zero (and for
+		every such characteristic)."
 LWB1	p. 15	Advanced Education Table, row 3: Electronics skill spelled
 		"Electronic" in all columns.
 LWB1	p. 26	Paragraph "Second Term": "Table 2, roll 4= gun combat" should
