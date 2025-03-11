@@ -184,7 +184,7 @@ LWB3	pp. 29, 33	The table referred to as the "special attributes
 		Attributes" on p. 33.
 
 
-** In Need of Clarification **
+** Unclear or Confusing **
 
 LWB1	p. 22	After the errata change to Vehicle skill, are grav belts
 		considered part of the Grav Vehicle category?
