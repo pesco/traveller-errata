@@ -4,6 +4,9 @@
 	for the Traveller Role-Playing Game
 
 
+* Online version: *
+https://pesco.github.io/traveller-errata
+
 * Source files: *
 lwb.txt		re 2021 "Facsimile Edition" of Classic Traveller
 
@@ -34,6 +37,7 @@ style.css	stylesheet included in HTML output
 fonts/		fonts included for reference
   u001.zip	URW U001, a free replacement for Univers (body font)
   classico.zip	URW Classico, a free replacement for Optima (title font)
+  *.ttf		font files extracted from the above
 
 * Known issues: *
 The Makefile uses a convenient OpenBSD extension to generate the HTML title
