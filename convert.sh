@@ -47,8 +47,6 @@ function do_bold() {
 	if (header) {
 		if (!subtitle)
 			print "<p>"
-		else
-			print "<br>"
 		subtitle = 1
 	}
 	do_bold()
@@ -57,10 +55,10 @@ function do_bold() {
 }
 
 // {
-	if (header)
-		print "</header>"
 	if (subtitle)
 		print "</p>"
+	if (header)
+		print "</header>"
 	if (tr)
 		print "</td></tr>"
 	if (dd)

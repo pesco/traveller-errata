@@ -53,6 +53,11 @@ header hr {
 	margin-top: 0;
 }
 
+header p {
+	max-width: 50ex;
+	margin-left: auto;
+}
+
 /* document title */
 h1 {
 	font-size: 24pt;
