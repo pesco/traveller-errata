@@ -32,7 +32,7 @@ LWB3	Little White Book 3, "Worlds and Adventures"
 [Name, Date]	Private correspondence from named person on the given date.
 
 
-** Spelling, Misprints, Editorial Mistakes **
+** Spelling, Grammar, Typography **
 
 LWB1	p. 8	Paragraph "The Universal Personality Profile", line 4/5:
 		"the common arabic numbers[;]" (semicolon damaged in scan)
@@ -44,9 +44,6 @@ LWB1	p. 9	Paragraph "Titles": "a noble may have some ancestral lands or
 LWB1	p. 11	Paragraph "Retirement": "A character may serve up to seven
 		terms of service voluntarily and may leave after any term"
 		(no comma before "and")
-LWB1	p. 11	Mustering Out Benefits table, should read "Gambling: +1 on
-		cash table" (cf. p. 11 last line, p. 14 cash table).
-		[Rob Eaglestone, 21 Feb 2022]
 LWB1	p. 12	Paragraph "Aging Crisis": The parenthesis in the following
 		does not make proper grammar with its surroundings: "This
 		process occurs each time (and for each characteristic) a
@@ -58,6 +55,7 @@ LWB1	p. 15	Advanced Education Table, row 3: Electronics skill spelled
 		"Electronic" in all columns.
 LWB1	p. 16	Paragraph "Blade Combat", second to last sentence: "-DM"
 		(hyphen used instead of minus sign).
+LWB1	p. 17	Line 3: Missing indent on first line of new paragraph.
 LWB1	p. 17	Tables "Blades and Polearms" and "Guns": Hyphens used instead
 		of minus signs.
 LWB1	pp. 17,21-22	Skills "Air/Raft", "Ship's Boat", "Streetwise": Hyphens
@@ -65,12 +63,6 @@ LWB1	pp. 17,21-22	Skills "Air/Raft", "Ship's Boat", "Streetwise": Hyphens
 LWB1	pp. 18-22	Skills "Bribery", "Computer", "Forgery", "Forward
 		Observer", "Gambling", "Xeno-Medicine", "Vacc Suit": Hyphens
 		used instead of minus signs.
-LWB1	p. 26	Paragraph "Second Term": "Table 2, roll 4= gun combat" should
-		be roll 6. [CotI, Axe 2019]
-LWB1	p. 27	Paragraph "Fourth Term": "Table 2, roll 4= gun combat" should
-		be roll 6. [CotI, Axe 2019]
-LWB1	p. 27	Paragraph "Mustering Out": "benefits table, roll 6 (+1=6)= +1
-		education" should be roll 2 (+1 = education).
 LWB1	p. 31	Tables "Surprise DMs" and "Terrain DMs": Hyphens used instead
 		of minus signs.
 LWB1	p. 31	Second paragraph, sentence 7 (line 17): "Surprise continues
@@ -98,12 +90,7 @@ LWB1	p. 46	Weapons Matrix, rows "Club", "Dagger", "Foil", "Carbine",
 		"Rifle": Hyphens used instead of minus signs.
 LWB1	p. 47	Range Matrix, rows "Cutlass", "Body Pistol", "Submachinegun":
 		Hyphens used instead of minus signs.
-LWB1	p. 47	Range Matrix, row "Claws", column "Wound Inflicted" should be
-		2D. Next row should be "Teeth, +2, 0, no, no, no, 2D" (errata
-		applied to wrong row).
 ---
-LWB2	p. 6	Paragraph "Misjump": DM for "within 10 planetary diameters"
-		should be 10 (not 15) - cf. malfunctions table, p. 11.
 LWB2	p. 14	Third paragraph: "the computer model (...) indicates the
 		credit [value]..."
 LWB2	p. 20	Second paragraph: "and steward (..." misses closing bracket.
@@ -113,18 +100,12 @@ LWB2	p. 29	Last line: "During the [ordnance] launch phase".
 LWB2	p. 30	Ship's Data Card Example: "T-1 (B,M) Gunnery-1" (not Gunner).
 LWB2	p. 37	Paragraph "Formulae": "information needed for [producing]".
 LWB2	p. 48	First line: "by 5)" duplicated from p. 46.
-LWB2	p. 48	Last paragraph: "Some goods (those results 51 - 56) are sold
-		individually" (not 66 - vacc suits).
-		Cf. p. 47 bottom, LWB1 p. 41 (price per unit).
-		[Rob Eaglestone, 21 Feb 2022]
 ---
 LWB3	p. 5	Last paragraph: "[They] also serve as the basic routes..."
 LWB3	p. 6	Paragraph 7: "universal [world] profile" (not planetary)
 		[Rob Eaglestone, 21 Feb 2022]
 LWB3	p. 7	Paragraph "Law Level": there is an extra space in the formula
 		("2D-7+ government") that does not appear in the others.
-LWB3	p. 12	World Generation Checklist, "D. Planetary hydrographics":
-		"if atmosphere 0, 1, or [A+]".
 LWB3	p. 12	World Data Format, third line: "UWP" (not UPP)
 		[Rob Eaglestone, 21 Feb 2022]
 LWB3	p. 12	World Data Format, last line: extra space is inserted before
@@ -141,8 +122,6 @@ LWB3	p. 30	First line: "Animal [W]ounds" (letter 'W' damaged in scan)
 LWB3	p. 31	First line: "ablat+1" (plus sign damaged in scan)
 LWB3	p. 31	Using the Encounter Tables, second paragraph: "subject to
 		normal rand[o]m encounter rules" (letter 'o' damaged)
-LWB3	p. 34	Paragraph "Formatting": "Each roll ... should [follow] the
-		letter..." (not be followed by)
 LWB3	p. 43	Heading "A[W]ARENESS" (letter 'W' damaged in scan)
 LWB3	p. 43	Paragraph "Psionically Enhanced Endurance": "nor may endurance
 		ever be increased [beyond] 15" (not "to beyond")
@@ -150,14 +129,23 @@ LWB3	p. 43	Paragraph "Psionically Enhanced Endurance": "nor may endurance
 
 ** Errors, Inconsistencies **
 
+LWB1	p. 11	Mustering Out Benefits table, should read "Gambling: +1 on
+		cash table" (cf. p. 11 last line, p. 14 cash table).
+		[Rob Eaglestone, 21 Feb 2022]
 ;; The next point applies to the original (LBB) text and is made moot by the
 ;; errata changes to Vehicle skill in LWB. Noting it here for completeness.
 ;LBB1	p. 22	The text for Vehicle skill states that ATV are considered
 ;		members of the ground car category and thus implies that
 ;		Ground Car would allow their use at -1. However, LBB3 p. 21
 ;		("Modern Transportation") states that ATV "require ATV skill".
+LWB1	p. 26	Paragraph "Second Term": "Table 2, roll 4= gun combat" should
+		be roll 6. [CotI, Axe 2019]
+LWB1	p. 27	Paragraph "Fourth Term": "Table 2, roll 4= gun combat" should
+		be roll 6. [CotI, Axe 2019]
 LWB1	p. 27	Paragraph "Mustering Out": Jamison receives three extra rolls
 		by virtue of his rank (5), not two.
+LWB1	p. 27	Paragraph "Mustering Out": "benefits table, roll 5 (+1=6)= +1
+		education" should be "roll 2 (+1=3)= +1 education".
 LWB1	p. 27	Paragraph "Mustering Out" and next paragraph: Jamison cannot
 		receive middle passage, as no such entry exists in the
 		Merchants column of the benefits table. Also affects credit
@@ -167,14 +155,25 @@ LWB1	p. 41	Paragraph "Armor and Protection": "The weight of personal
 		vacc suits. [CotI, Axe 2017]
 LWB1	p. 42	Paragraph "Drawing", last sentence: "... for the purpose of a
 		first shot." - could also be a swing.
+LWB1	p. 47	Range Matrix, row "Claws", column "Wound Inflicted" should be
+		2D. Next row should be "Teeth, +2, 0, no, no, no, 2D" (errata
+		applied to wrong row).
 ---
+LWB2	p. 6	Paragraph "Misjump": DM for "within 10 planetary diameters"
+		should be 10 (not 15) - cf. malfunctions table, p. 11.
 LWB2	p. 27	Second paragraph "To prepare a data card": The order of "2)
 		power plant..." and "3) J-drive..." is reversed with respect
 		to the example (p. 30).
 LWB2	p. 27	Second paragraph "To prepare a data card": Instructions state
 		to list M-drive and J-drive letters. The example (p. 30) also
 		shows acceleration and jump range.
+LWB2	p. 48	Last paragraph: "Some goods (those results 51 - 56) are sold
+		individually" (not 66 - vacc suits).
+		Cf. p. 47 bottom, LWB1 p. 41 (price per unit).
+		[Rob Eaglestone, 21 Feb 2022]
 ---
+LWB3	p. 12	World Generation Checklist, "D. Planetary hydrographics":
+		"if atmosphere 0, 1, or [A+]".
 LWB3	pp. 21-23	The described categorization, specifically as it
 		references character generation rules (p. 21, paragraph
 		"Modern Transportation"), does not align with the changes to
@@ -182,6 +181,8 @@ LWB3	pp. 21-23	The described categorization, specifically as it
 LWB3	pp. 29, 33	The table referred to as the "special attributes
 		table" on p. 29 (first paragraph) is titled "Animal
 		Attributes" on p. 33.
+LWB3	p. 34	Paragraph "Formatting": "Each roll ... should [follow] the
+		letter..." (not be followed by)
 
 
 ** Unclear or Confusing **
