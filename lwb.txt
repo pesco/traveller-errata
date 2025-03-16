@@ -51,6 +51,9 @@ LWB1	p. 12	Paragraph "Aging Crisis": The parenthesis in the following
 		occurs each time a characteristic is reduced to zero (and for
 		every such characteristic)."
 LWB1	p. 12	Aging Table: Hyphens used instead of minus signs.
+LWB1	p. 15	Acquired Skills Tables: Column titled "Merchant", should be
+		"Merchants" to match tables on p. 14, paragraph title under
+		"Career Types" on p. 13, and mention under "Enlistment" on p. 9.
 LWB1	p. 15	Advanced Education Table, row 3: Electronics skill spelled
 		"Electronic" in all columns.
 LWB1	p. 16	Paragraph "Blade Combat", second to last sentence: "-DM"
