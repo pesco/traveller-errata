@@ -58,6 +58,7 @@ LWB1	p. 15	Advanced Education Table, row 3: Electronics skill spelled
 		"Electronic" in all columns.
 LWB1	p. 16	Paragraph "Blade Combat", second to last sentence: "-DM"
 		(hyphen used instead of minus sign).
+LWB1	p. 17	Line 1: Line not adjusted (filled) to full length.
 LWB1	p. 17	Line 3: Missing indent on first line of new paragraph.
 LWB1	p. 17	Tables "Blades and Polearms" and "Guns": Hyphens used instead
 		of minus signs.
