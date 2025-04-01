@@ -98,6 +98,8 @@ LWB1	p. 47	Range Matrix, rows "Cutlass", "Body Pistol", "Submachinegun":
 LWB2	p. 14	Third paragraph: "the computer model (...) indicates the
 		credit [value]..."
 LWB2	p. 20	Second paragraph: "and steward (..." misses closing bracket.
+LWB2	p. 20	Second paragraph: "The yacht costs MCr51.057" (errata applied
+		with incorrect price). [CotI, spank 2025]
 LWB2	p. 26	Section "Basic Parameters", point "2. Space": extraneous
 		period at end of second to last line (after "show").
 LWB2	p. 29	Last line: "During the [ordnance] launch phase".
