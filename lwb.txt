@@ -38,12 +38,6 @@ LWB1	p. 8	Paragraph "The Universal Personality Profile", line 4/5:
 		"the common arabic numbers[;]" (semicolon damaged in scan)
 LWB1	p. 9	Paragraph "Titles": "Noble titles are commonly used, even if
 		the individual [is] not engaged in local government."
-LWB1	p. 9	Paragraph "Titles": "a noble may have some ancestral lands or
-		fiefs and may actually have some ruling power." (no comma
-		before "and")
-LWB1	p. 11	Paragraph "Retirement": "A character may serve up to seven
-		terms of service voluntarily and may leave after any term"
-		(no comma before "and")
 LWB1	p. 12	Paragraph "Aging Crisis": The parenthesis in the following
 		does not make proper grammar with its surroundings: "This
 		process occurs each time (and for each characteristic) a
@@ -328,6 +322,9 @@ LWB1	p. 11	"The Other career should get two skills per term just like
 		"The 'other' career is strange, and double skill would seem to
 		balance it, however I think there might be better ways."
 		[Rob Eaglestone, 21 Feb 2022]
+LWB1	p. 11	Paragraph "Retirement": "A character may serve up to seven
+		terms of service voluntarily and may leave after any term"
+		(no comma before "and")?
 LWB1	p. 14	The cash table includes entries for a roll of 7 for the Navy,
 		Scout, and Merchant careers, even though such a roll is not
 		possible (these careers cannot yield Gambling expertise).
