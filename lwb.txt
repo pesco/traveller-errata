@@ -34,6 +34,8 @@ LWB3	Little White Book 3, "Worlds and Adventures"
 
 ** Spelling, Grammar, Typography **
 
+LWB	p. 5	Contents for Book 2 lists chapter "Starship Combat" but its
+		actual title in LWB2 on p. 26 reads "Space Combat".
 LWB1	p. 8	Paragraph "The Universal Personality Profile", line 4/5:
 		"the common arabic numbers[;]" (semicolon damaged in scan)
 LWB1	p. 9	Paragraph "Titles": "Noble titles are commonly used, even if
@@ -89,6 +91,8 @@ LWB1	p. 46	Weapons Matrix, rows "Club", "Dagger", "Foil", "Carbine",
 LWB1	p. 47	Range Matrix, rows "Cutlass", "Body Pistol", "Submachinegun":
 		Hyphens used instead of minus signs.
 ---
+LWB2	p. 3	Table of contents lists chapter "Starship Combat" but its
+		actual title (on p. 26) appears as "Space Combat".
 LWB2	p. 14	Third paragraph: "the computer model (...) indicates the
 		credit [value]..."
 LWB2	p. 20	Second paragraph: "and steward (..." misses closing bracket.
