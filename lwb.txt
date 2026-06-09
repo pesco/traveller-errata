@@ -171,6 +171,9 @@ LWB2	p. 27	Second paragraph "To prepare a data card": The order of "2)
 LWB2	p. 27	Second paragraph "To prepare a data card": Instructions state
 		to list M-drive and J-drive letters. The example (p. 30) also
 		shows acceleration and jump range.
+LWB2	p. 39	Double fire, second to last sentence: "[Lower the throw by 1]
+		for each turn in which lasers do not fire at all." [CotI,
+		Ildefonse 2026]
 LWB2	p. 48	Last paragraph: "Some goods (those results 51 - 56) are sold
 		individually" (not 66 - vacc suits).
 		Cf. p. 47 bottom, LWB1 p. 41 (price per unit).
