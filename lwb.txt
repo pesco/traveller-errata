@@ -63,6 +63,9 @@ LWB1	pp. 17,21-22	Skills "Air/Raft", "Ship's Boat", "Streetwise": Hyphens
 LWB1	pp. 18-22	Skills "Bribery", "Computer", "Forgery", "Forward
 		Observer", "Gambling", "Xeno-Medicine", "Vacc Suit": Hyphens
 		used instead of minus signs.
+LWB1	p. 22	Paragraph "Vehicle": "The individual is skilled in the
+		operation, use, and maintenance of a specific type [of] vehicle
+		commonly available in society."
 LWB1	p. 31	Tables "Surprise DMs" and "Terrain DMs": Hyphens used instead
 		of minus signs.
 LWB1	p. 31	Second paragraph, sentence 7 (line 17): "Surprise continues
